@@ -1,1 +1,1 @@
-# -_-
+# Picture Skeleton
